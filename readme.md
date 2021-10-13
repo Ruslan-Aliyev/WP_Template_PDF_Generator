@@ -26,11 +26,20 @@ Send a POST request
 
 Make sure you get the document slug name and the names of all variables right.
 
-## Relevant Tutorials
+## Tutorials
+
 - https://www.youtube.com/watch?v=C2twS9ArdCI
 - https://stackoverflow.com/questions/64327204/where-to-register-rest-route-to-wordpress-plugin-endpoint/64331655#64331655
 - https://developer.wordpress.org/reference/classes/wp_rest_request/
-- https://torquemag.io/2017/06/custom-shortcode/
 - https://stackoverflow.com/questions/5317366/proper-way-to-get-page-content/5318869#5318869
 - https://stackoverflow.com/questions/14979837/wordpress-query-single-post-by-slug/14980473#14980473
 - https://github.com/mpdf/mpdf#usage
+
+## Other Related Tutorials
+
+- https://torquemag.io/2017/06/custom-shortcode/
+- https://www.youtube.com/watch?v=I29BI1CrNcI
+- https://make.wordpress.org/core/2020/07/17/passing-arguments-to-template-files-in-wordpress-5-5/
+- https://www.youtube.com/watch?v=5WnhIMqPLoY
+- https://laravelarticle.com/blade-template-in-wordpress
+- https://wordpress.org/plugins/pdf-generator-for-wp/
